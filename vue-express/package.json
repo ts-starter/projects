@@ -68,7 +68,7 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-preset-latest": "^6.0.0",
-    "cross-env": "^6.0.3",
+    "cross-env": "^7.0.0",
     "css-loader": "^0.28.11",
     "file-loader": "^2.0.0",
     "vue-loader": "^15.4.2",
