@@ -46,7 +46,7 @@
     "jade": "^1.11.0",
     "lodash": "^4.17.15",
     "module": "^1.2.5",
-    "mongodb": "^3.5.2",
+    "mongodb": "^3.5.3",
     "node-uuid": "^1.4.8",
     "opn": "^6.0.0",
     "optimize-css-assets-webpack-plugin": "^4.0.0",
