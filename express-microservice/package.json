@@ -74,7 +74,7 @@
     "puppeteer": "^2.1.1",
     "randexp": "^0.5.3",
     "reflect-metadata": "^0.1.13",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "request-promise": "^4.2.5",
     "response-time": "^2.3.2",
     "rxjs": "^6.5.4",
