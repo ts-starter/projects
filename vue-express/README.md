@@ -1,6 +1,6 @@
-# Vuexpresso
+# Vuexpress
 
-Vuexpresso is a skeleton app that uses the new techs like
+Vuexpress is a skeleton app that uses the new techs like
  `vue`, `vuex`, `graphql`, `webpack`, `apollo`, between others (See complete list below).
 
 Mainly inspired by
