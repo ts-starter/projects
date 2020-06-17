@@ -61,7 +61,7 @@
     "graphql": "^14.6.0",
     "graphql-import": "^1.0.2",
     "graphql-request": "^2.0.0",
-    "helmet": "^3.23.0",
+    "helmet": "^3.23.1",
     "inversify": "^5.0.1",
     "inversify-express-utils": "^6.3.2",
     "jsonwebtoken": "^8.5.1",
