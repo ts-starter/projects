@@ -111,7 +111,7 @@
     "tslint-config-standard": "^9.0.0",
     "typedoc": "^0.17.8",
     "typedoc-webpack-plugin": "^1.1.4",
-    "typescript": "^3.9.5",
+    "typescript": "^3.9.6",
     "wait-port": "^0.2.9"
   },
   "repository": {
