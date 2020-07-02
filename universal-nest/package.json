@@ -57,7 +57,7 @@
     "core-js": "^3.6.5",
     "dragula": "https://github.com/DevIntent/dragula.git#3.7.4",
     "ng2-dragula": "2.1.1",
-    "rxjs": "~6.5.5",
+    "rxjs": "~6.6.0",
     "terser": "^4.8.0",
     "tsconfig-paths": "^3.9.0",
     "tslib": "^2.0.0",
