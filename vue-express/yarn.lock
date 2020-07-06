@@ -6716,9 +6716,9 @@ graphql-tools@^6.0.12:
     "@graphql-tools/utils" "6.0.12"
     "@graphql-tools/wrap" "6.0.12"
 
-graphql@^14.6.0:
-  version "14.6.0"
-  resolved "https://registry.yarnpkg.com/graphql/-/graphql-14.6.0.tgz#57822297111e874ea12f5cd4419616930cd83e49"
+graphql@^14.7.0:
+  version "14.7.0"
+  resolved "https://registry.yarnpkg.com/graphql/-/graphql-14.7.0.tgz#7fa79a80a69be4a31c27dda824dc04dac2035a72"
   dependencies:
     iterall "^1.2.2"
 
