@@ -91,7 +91,7 @@
     "@types/express": "^4.17.7",
     "@types/graphql": "^14.5.0",
     "@types/jest": "^26.0.5",
-    "@types/lodash": "^4.14.157",
+    "@types/lodash": "^4.14.158",
     "@types/request": "^2.48.5",
     "@types/supertest": "^2.0.10",
     "awesome-typescript-loader": "^5.2.1",
