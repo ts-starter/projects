@@ -75,7 +75,7 @@
     "randexp": "^0.5.3",
     "reflect-metadata": "^0.1.13",
     "request": "^2.88.2",
-    "request-promise": "^4.2.5",
+    "request-promise": "^4.2.6",
     "response-time": "^2.3.2",
     "rxjs": "^6.6.2",
     "scrape-it": "^5.2.3",
