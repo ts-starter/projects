@@ -2229,12 +2229,21 @@ ajv-keywords@^3.1.0, ajv-keywords@^3.4.1:
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/ajv-keywords/-/ajv-keywords-3.4.1.tgz#ef916e271c64ac12171fd8384eaae6b2345854da"
 
-ajv@^4.11.2, ajv@^4.9.1:
+ajv@^4.9.1:
   version "4.11.7"
   resolved "https://registry.yarnpkg.com/ajv/-/ajv-4.11.7.tgz#8655a5d86d0824985cc471a1d913fb6729a0ec48"
   dependencies:
     co "^4.6.0"
     json-stable-stringify "^1.0.1"
+
+ajv@^5.0.0:
+  version "5.5.2"
+  resolved "https://registry.yarnpkg.com/ajv/-/ajv-5.5.2.tgz#73b5eeca3fab653e3d3f9422b341ad42205dc965"
+  dependencies:
+    co "^4.6.0"
+    fast-deep-equal "^1.0.0"
+    fast-json-stable-stringify "^2.0.0"
+    json-schema-traverse "^0.3.0"
 
 ajv@^6.1.0, ajv@^6.10.0, ajv@^6.10.2, ajv@^6.5.5:
   version "6.10.2"
@@ -2625,13 +2634,7 @@ async-retry@^1.1.4:
   dependencies:
     retry "0.12.0"
 
-async@^2.1.2:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.6.0.tgz#61a29abb6fcc026fea77e56d1c6ec53a795951f4"
-  dependencies:
-    lodash "^4.14.0"
-
-async@^2.6.2:
+async@^2.4.1, async@^2.6.2:
   version "2.6.3"
   resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
   dependencies:
@@ -5993,14 +5996,14 @@ extract-files@^9.0.0:
   version "9.0.0"
   resolved "https://registry.yarnpkg.com/extract-files/-/extract-files-9.0.0.tgz#8a7744f2437f81f5ed3250ed9f1550de902fe54a"
 
-extract-text-webpack-plugin@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/extract-text-webpack-plugin/-/extract-text-webpack-plugin-2.1.0.tgz#69315b885f876dbf96d3819f6a9f1cca7aebf159"
+extract-text-webpack-plugin@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/extract-text-webpack-plugin/-/extract-text-webpack-plugin-3.0.2.tgz#5f043eaa02f9750a9258b78c0a6e0dc1408fb2f7"
   dependencies:
-    ajv "^4.11.2"
-    async "^2.1.2"
-    loader-utils "^1.0.2"
-    webpack-sources "^0.1.0"
+    async "^2.4.1"
+    loader-utils "^1.1.0"
+    schema-utils "^0.3.0"
+    webpack-sources "^1.0.1"
 
 extsprintf@1.0.2:
   version "1.0.2"
@@ -6009,6 +6012,10 @@ extsprintf@1.0.2:
 fake-tag@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/fake-tag/-/fake-tag-1.0.1.tgz#1d59da482240a02bd83500ca98976530ed154b0d"
+
+fast-deep-equal@^1.0.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/fast-deep-equal/-/fast-deep-equal-1.1.0.tgz#c053477817c86b51daa853c81e059b733d023614"
 
 fast-deep-equal@^2.0.1:
   version "2.0.1"
@@ -7904,6 +7911,10 @@ json-parse-better-errors@^1.0.1, json-parse-better-errors@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/json-parse-better-errors/-/json-parse-better-errors-1.0.2.tgz#bb867cfb3450e69107c131d1c514bab3dc8bcaa9"
 
+json-schema-traverse@^0.3.0:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/json-schema-traverse/-/json-schema-traverse-0.3.1.tgz#349a6d44c53a51de89b40805c5d5e59b417d3340"
+
 json-schema-traverse@^0.4.1:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/json-schema-traverse/-/json-schema-traverse-0.4.1.tgz#69f6a87d9513ab8bb8fe63bdb0979c448e684660"
@@ -8251,7 +8262,7 @@ lodash.uniq@^4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
 
-lodash@4.17.19, lodash@^4.14.0, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.2.0:
+lodash@4.17.19, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.2.0:
   version "4.17.19"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
 
@@ -8382,7 +8393,7 @@ memoizerific@^1.11.3:
   dependencies:
     map-or-similar "^1.5.0"
 
-memory-fs@^0.4.1, memory-fs@~0.4.1:
+memory-fs@^0.4.1:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/memory-fs/-/memory-fs-0.4.1.tgz#3a9a20b8462523e447cfbc7e8bb80ed667bfc552"
   dependencies:
@@ -11032,6 +11043,12 @@ scheduler@^0.18.0:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
 
+schema-utils@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-0.3.0.tgz#f5877222ce3e931edae039f17eb3716e7137f8cf"
+  dependencies:
+    ajv "^5.0.0"
+
 schema-utils@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-1.0.0.tgz#0b79a93204d7b600d4b2850d1f66c2a34951c770"
@@ -11347,10 +11364,6 @@ source-list-map@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/source-list-map/-/source-list-map-2.0.0.tgz#aaa47403f7b245a92fbc97ea08f250d6087ed085"
 
-source-list-map@~0.1.7:
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/source-list-map/-/source-list-map-0.1.8.tgz#c550b2ab5427f6b3f21f5afead88c4f5587b2106"
-
 source-map-resolve@^0.3.0:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/source-map-resolve/-/source-map-resolve-0.3.1.tgz#610f6122a445b8dd51535a2a71b783dfc1248761"
@@ -11407,7 +11420,7 @@ source-map@0.4.x:
   dependencies:
     amdefine ">=0.0.4"
 
-source-map@0.5.x, source-map@^0.5.0, source-map@^0.5.3, source-map@^0.5.6, source-map@^0.5.7, source-map@~0.5.1, source-map@~0.5.3:
+source-map@0.5.x, source-map@^0.5.0, source-map@^0.5.3, source-map@^0.5.6, source-map@^0.5.7, source-map@~0.5.1:
   version "0.5.7"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.5.7.tgz#8a039d2d1021d22d1ea14c80d8ea468ba2ef3fcc"
 
@@ -12773,13 +12786,6 @@ webpack-merge@^5.1.1:
   dependencies:
     clone-deep "^4.0.1"
     wildcard "^2.0.0"
-
-webpack-sources@^0.1.0:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-0.1.5.tgz#aa1f3abf0f0d74db7111c40e500b84f966640750"
-  dependencies:
-    source-list-map "~0.1.7"
-    source-map "~0.5.3"
 
 webpack-sources@^1.0.1, webpack-sources@^1.1.0, webpack-sources@^1.4.0, webpack-sources@^1.4.1:
   version "1.4.3"
