@@ -78,7 +78,7 @@
     "request-promise": "^4.2.6",
     "response-time": "^2.3.2",
     "rxjs": "^6.6.2",
-    "scrape-it": "^5.2.3",
+    "scrape-it": "^5.2.4",
     "source-map-support": "^0.5.19",
     "swagger-express-middleware": "^4.0.2",
     "swagger-ui-express": "^4.1.4",
