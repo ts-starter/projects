@@ -58,7 +58,7 @@
     "dragula": "https://github.com/DevIntent/dragula.git#3.7.4",
     "ng2-dragula": "2.1.1",
     "rxjs": "~6.6.2",
-    "terser": "^5.1.0",
+    "terser": "^5.2.0",
     "tsconfig-paths": "^3.9.0",
     "tslib": "^2.0.1",
     "webpack-cli": "3.3.12",
