@@ -7258,9 +7258,9 @@ html-minifier-terser@^5.0.1:
     relateurl "^0.2.7"
     terser "^4.3.9"
 
-html-webpack-plugin@^4.0.0-beta.2, html-webpack-plugin@^4.4.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/html-webpack-plugin/-/html-webpack-plugin-4.4.0.tgz#ed6ab2b5e4e476ffa3c5ce52505aa31a42075029"
+html-webpack-plugin@^4.0.0-beta.2, html-webpack-plugin@^4.4.1:
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/html-webpack-plugin/-/html-webpack-plugin-4.4.1.tgz#61ab85aa1a84ba181443345ebaead51abbb84149"
   dependencies:
     "@types/html-minifier-terser" "^5.0.0"
     "@types/tapable" "^1.0.5"
