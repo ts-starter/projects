@@ -42,7 +42,7 @@
     "graphql-tools": "^6.2.3",
     "html-webpack-plugin": "^4.5.0",
     "http-proxy-middleware": "^1.0.5",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "jade": "^1.11.0",
     "lodash": "^4.17.20",
     "module": "^1.2.5",
