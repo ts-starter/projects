@@ -103,7 +103,7 @@
     "jest-sonar-reporter": "^2.0.0",
     "prettier": "^2.1.2",
     "shelljs": "^0.8.4",
-    "supertest": "^4.0.2",
+    "supertest": "^5.0.0",
     "ts-jest": "^25.5.1",
     "ts-node": "^9.0.0",
     "tslint": "^5.20.1",
