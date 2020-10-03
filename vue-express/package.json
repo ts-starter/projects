@@ -52,7 +52,7 @@
     "optimize-css-assets-webpack-plugin": "^5.0.4",
     "ora": "^5.1.0",
     "stylus": "^0.54.8",
-    "stylus-loader": "^4.0.0",
+    "stylus-loader": "^4.1.0",
     "subscriptions-transport-ws": "^0.9.18",
     "vue": "^2.6.12",
     "vue-apollo": "^3.0.4",
