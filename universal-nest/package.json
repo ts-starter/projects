@@ -83,7 +83,7 @@
     "karma-coverage-istanbul-reporter": "~3.0.3",
     "karma-jasmine": "~4.0.1",
     "karma-jasmine-html-reporter": "^1.5.4",
-    "mini-css-extract-plugin": "^1.1.2",
+    "mini-css-extract-plugin": "^1.2.0",
     "nodemon": "^2.0.6",
     "pre-commit": "1.2.2",
     "protractor": "~7.0.0",
