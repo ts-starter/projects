@@ -7084,9 +7084,9 @@ graphql-tools@^7.0.0:
     "@graphql-tools/wrap" "^7.0.0"
     tslib "~2.0.1"
 
-graphql@^15.3.0:
-  version "15.3.0"
-  resolved "https://registry.yarnpkg.com/graphql/-/graphql-15.3.0.tgz#3ad2b0caab0d110e3be4a5a9b2aa281e362b5278"
+graphql@^15.4.0:
+  version "15.4.0"
+  resolved "https://registry.yarnpkg.com/graphql/-/graphql-15.4.0.tgz#e459dea1150da5a106486ba7276518b5295a4347"
 
 gud@^1.0.0:
   version "1.0.0"
