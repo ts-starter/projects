@@ -23,7 +23,7 @@
     "body-parser": "^1.17.1",
     "compression-webpack-plugin": "^6.0.5",
     "connect-history-api-fallback": "^1.6.0",
-    "copy-webpack-plugin": "^6.2.1",
+    "copy-webpack-plugin": "^6.3.0",
     "cors": "^2.8.5",
     "eslint": "^7.12.1",
     "eslint-config-airbnb-base": "^14.2.0",
