@@ -61,7 +61,7 @@
     "terser": "^5.3.8",
     "tsconfig-paths": "^3.9.0",
     "tslib": "^2.0.3",
-    "webpack-cli": "4.1.0",
+    "webpack-cli": "4.2.0",
     "zone.js": "~0.10.3"
   },
   "devDependencies": {
