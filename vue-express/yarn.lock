@@ -12972,9 +12972,9 @@ webpack-dev-middleware@^3.7.0, webpack-dev-middleware@^3.7.2:
     range-parser "^1.2.1"
     webpack-log "^2.0.0"
 
-webpack-dev-middleware@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-4.0.0.tgz#1725b2ebc78b66333672499d9dc7b1c244aebb1c"
+webpack-dev-middleware@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-4.0.1.tgz#e0201fe48a976cac24b548a398b1022e2ab73ff7"
   dependencies:
     mem "^8.0.0"
     memfs "^3.2.0"
