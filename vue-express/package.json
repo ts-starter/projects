@@ -62,7 +62,7 @@
     "webpack-bundle-analyzer": "^4.2.0",
     "webpack-dev-middleware": "^4.0.2",
     "webpack-hot-middleware": "^2.25.0",
-    "webpack-merge": "^5.4.0"
+    "webpack-merge": "^5.4.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
