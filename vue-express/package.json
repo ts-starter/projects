@@ -21,7 +21,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "babel-register": "^6.26.0",
     "body-parser": "^1.17.1",
-    "compression-webpack-plugin": "^6.1.1",
+    "compression-webpack-plugin": "^7.1.0",
     "connect-history-api-fallback": "^1.6.0",
     "copy-webpack-plugin": "^6.4.1",
     "cors": "^2.8.5",
