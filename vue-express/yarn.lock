@@ -12885,9 +12885,9 @@ webpack-dev-middleware@^3.7.0, webpack-dev-middleware@^3.7.2:
     range-parser "^1.2.1"
     webpack-log "^2.0.0"
 
-webpack-dev-middleware@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-4.0.3.tgz#71a846f825cf44999edd3a58a07d8cafae0c2283"
+webpack-dev-middleware@^4.0.4:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-4.0.4.tgz#ebe1e4ad2cca8d33389f89b25d2b7ef7d621bc3f"
   dependencies:
     colorette "^1.2.1"
     mem "^8.0.0"
