@@ -40,7 +40,7 @@
   "dependencies": {
     "apollo-datasource-rest": "^0.9.7",
     "apollo-errors": "^1.9.0",
-    "apollo-server": "^2.19.2",
+    "apollo-server": "^2.20.0",
     "apollo-server-express": "^2.19.2",
     "bluebird": "^3.7.2",
     "body-parser": "^1.19.0",
