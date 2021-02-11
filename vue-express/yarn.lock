@@ -12765,9 +12765,9 @@ void-elements@~2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/void-elements/-/void-elements-2.0.1.tgz#c066afb582bb1cb4128d60ea92392e94d5e9dbec"
 
-vue-apollo@^3.0.5:
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/vue-apollo/-/vue-apollo-3.0.5.tgz#d4c7e8c7f36d76a7eed005fe565621eb0fb20522"
+vue-apollo@^3.0.6:
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/vue-apollo/-/vue-apollo-3.0.6.tgz#e2317c726a25caa60068bd5c36221b6fb9ac9a53"
   dependencies:
     chalk "^2.4.2"
     serialize-javascript "^4.0.0"
