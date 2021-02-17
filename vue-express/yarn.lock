@@ -1511,15 +1511,13 @@
     "@graphql-tools/utils" "^7.0.0"
     tslib "~2.1.0"
 
-"@graphql-tools/mock@^8.0.0":
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/@graphql-tools/mock/-/mock-8.0.0.tgz#2f8b6ace8895512dcfe40a07ed18149e26ec7826"
+"@graphql-tools/mock@^7.0.0":
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/@graphql-tools/mock/-/mock-7.0.0.tgz#b43858f47fedfbf7d8bbbf7d33e6acb64b8b7da7"
   dependencies:
     "@graphql-tools/schema" "^7.0.0"
     "@graphql-tools/utils" "^7.0.0"
-    fast-json-stable-stringify "^2.1.0"
-    ts-is-defined "^1.0.0"
-    tslib "~2.1.0"
+    tslib "~2.0.1"
 
 "@graphql-tools/module-loader@^6.2.5":
   version "6.2.5"
@@ -6453,10 +6451,6 @@ fast-json-stable-stringify@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/fast-json-stable-stringify/-/fast-json-stable-stringify-2.0.0.tgz#d5142c0caee6b1189f87d3a76111064f86c8bbf2"
 
-fast-json-stable-stringify@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/fast-json-stable-stringify/-/fast-json-stable-stringify-2.1.0.tgz#874bf69c6f404c2b5d99c481341399fd55892633"
-
 fast-levenshtein@^2.0.6:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz#3d8a5c66883a16a30ca8643e851f19baa7797917"
@@ -7138,9 +7132,9 @@ graphql-tag@^2.12.0:
   dependencies:
     tslib "^1.14.1"
 
-graphql-tools@^7.0.3:
-  version "7.0.3"
-  resolved "https://registry.yarnpkg.com/graphql-tools/-/graphql-tools-7.0.3.tgz#aa0e0a3933f2b164e68b2a3842985eab60aa39af"
+graphql-tools@^7.0.4:
+  version "7.0.4"
+  resolved "https://registry.yarnpkg.com/graphql-tools/-/graphql-tools-7.0.4.tgz#2ab8ee2afe1eb066f79fe8d0d643822d119d4ae3"
   dependencies:
     "@graphql-tools/batch-delegate" "^7.0.0"
     "@graphql-tools/batch-execute" "^7.0.0"
@@ -7156,7 +7150,7 @@ graphql-tools@^7.0.3:
     "@graphql-tools/load" "^6.2.5"
     "@graphql-tools/load-files" "^6.2.4"
     "@graphql-tools/merge" "^6.2.5"
-    "@graphql-tools/mock" "^8.0.0"
+    "@graphql-tools/mock" "^7.0.0"
     "@graphql-tools/module-loader" "^6.2.5"
     "@graphql-tools/optimize" "1.0.1"
     "@graphql-tools/relay-operation-optimizer" "^6.2.5"
@@ -12343,19 +12337,9 @@ ts-invariant@^0.6.0:
     "@ungap/global-this" "^0.4.2"
     tslib "^1.9.3"
 
-ts-is-defined@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/ts-is-defined/-/ts-is-defined-1.0.0.tgz#8f106af8c43ba6200beaac0a8013dc3745451ae7"
-  dependencies:
-    ts-tiny-invariant "0.0.3"
-
 ts-pnp@^1.1.2:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/ts-pnp/-/ts-pnp-1.2.0.tgz#a500ad084b0798f1c3071af391e65912c86bca92"
-
-ts-tiny-invariant@0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/ts-tiny-invariant/-/ts-tiny-invariant-0.0.3.tgz#6f51c153c285a7839bb59b1e5a2721fcb25a5e39"
 
 tsconfig-paths@^3.9.0:
   version "3.9.0"
