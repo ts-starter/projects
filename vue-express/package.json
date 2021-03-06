@@ -37,7 +37,7 @@
     "friendly-errors-webpack-plugin": "^1.7.0",
     "graphql": "^15.5.0",
     "graphql-server-express": "^1.4.1",
-    "graphql-subscriptions": "^1.2.0",
+    "graphql-subscriptions": "^1.2.1",
     "graphql-tag": "^2.11.0",
     "graphql-tools": "^7.0.4",
     "html-webpack-plugin": "^5.2.0",
