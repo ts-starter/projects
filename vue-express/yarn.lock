@@ -5257,9 +5257,9 @@ css-loader@^3.0.0:
     schema-utils "^2.7.0"
     semver "^6.3.0"
 
-css-loader@^5.1.4:
-  version "5.1.4"
-  resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-5.1.4.tgz#1f6d278f041d512ad410df7168f0bdae97f55950"
+css-loader@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-5.2.0.tgz#a9ecda190500863673ce4434033710404efbff00"
   dependencies:
     camelcase "^6.2.0"
     cssesc "^3.0.0"
