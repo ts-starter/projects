@@ -5075,9 +5075,9 @@ copy-to-clipboard@^3.0.8:
   dependencies:
     toggle-selection "^1.0.6"
 
-copy-webpack-plugin@^8.1.0:
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/copy-webpack-plugin/-/copy-webpack-plugin-8.1.0.tgz#0b53170db798ed301439536a02f2868ff63291a0"
+copy-webpack-plugin@^8.1.1:
+  version "8.1.1"
+  resolved "https://registry.yarnpkg.com/copy-webpack-plugin/-/copy-webpack-plugin-8.1.1.tgz#3f697e162764925c2f0d235f380676125508fd26"
   dependencies:
     fast-glob "^3.2.5"
     glob-parent "^5.1.1"
