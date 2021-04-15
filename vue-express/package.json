@@ -74,7 +74,7 @@
     "vue-loader": "^15.9.6",
     "vue-play": "^3.2.1",
     "vue-template-compiler": "^2.6.12",
-    "webpack": "^5.32.0",
+    "webpack": "^5.33.2",
     "webpack-dev-server": "^3.11.2",
     "@storybook/vue": "^5.3.21",
     "@storybook/addon-actions": "^6.2.8",
