@@ -13215,9 +13215,9 @@ webpack@^4.33.0, webpack@^4.38.0:
     watchpack "^1.7.4"
     webpack-sources "^1.4.1"
 
-webpack@^5.35.0:
-  version "5.35.0"
-  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.35.0.tgz#4db23c2b96c4e53a90c5732d7cdb301a84a33576"
+webpack@^5.35.1:
+  version "5.35.1"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.35.1.tgz#857670799465c8a5cbb94c4c175d60ac42d18ba3"
   dependencies:
     "@types/eslint-scope" "^3.7.0"
     "@types/estree" "^0.0.47"
