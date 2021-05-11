@@ -52,7 +52,7 @@
     "csurf": "^1.11.0",
     "dataloader": "^2.0.0",
     "dateformat": "^4.5.1",
-    "dotenv": "^9.0.1",
+    "dotenv": "^9.0.2",
     "express": "^4.17.1",
     "express-jwt": "^6.0.0",
     "express-partial-response": "^1.0.4",
