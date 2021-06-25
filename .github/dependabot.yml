@@ -1,0 +1,41 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/vue-express"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: webpack
+    versions:
+    - 5.34.0
+  - dependency-name: "@storybook/addon-actions"
+    versions:
+    - 6.2.4
+    - 6.2.6
+- package-ecosystem: npm
+  directory: "/gatsby"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+- package-ecosystem: npm
+  directory: "/express-microservice"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: puppeteer
+    versions:
+    - 7.0.1
+- package-ecosystem: npm
+  directory: "/universal-nest"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: ts-loader
+    versions:
+    - 9.0.0
+  - dependency-name: core-js
+    versions:
+    - 3.10.2
