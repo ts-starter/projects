@@ -54,7 +54,7 @@
     "class-transformer": "^0.4.0",
     "class-validator": "^0.13.1",
     "classlist.js": "1.1.20150312",
-    "core-js": "^3.15.1",
+    "core-js": "^3.15.2",
     "dragula": "https://github.com/DevIntent/dragula.git#3.7.4",
     "ng2-dragula": "2.1.1",
     "rxjs": "~6.6.7",
