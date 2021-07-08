@@ -78,6 +78,6 @@
     "webpack-dev-server": "^3.11.2",
     "@storybook/vue": "^5.3.21",
     "@storybook/addon-actions": "^6.3.3",
-    "@storybook/addon-links": "^6.3.3"
+    "@storybook/addon-links": "^6.3.4"
   }
 }
